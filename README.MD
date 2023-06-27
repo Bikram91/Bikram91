@@ -4,13 +4,13 @@
 ## I'm a Software Engineer
 
 - 🔭 I am currently learning React Native to build awesome app for IOS and Android
-- 🌱 I’m also currently Data Structure and building strong problem solving skills
+- 🌱 I’m also currently learnin Data Structure and building strong problem solving skills
 - 👯 I’m looking to collaborate on new challenging projects
 - 🥅 2023 Goals: Learn more about new technologies
 - 💡 I am proficient in React-Redux and Ruby on Rails
 - ⚡ Fun fact: I love hiking, Rock climbing
 - 😻 Check out my BlueBottleCoffee clone, <a href="https://bluevelvetcoffee.onrender.com/">Home</a></li>
-- 🦠 I bult a Global CoronaVirus Statistics web app <a href="https://bikram91.github.io/Covid-Tracker/">Home</a></li>
+- 🦠 I built a Global CoronaVirus Statistics web app <a href="https://bikram91.github.io/Covid-Tracker/">Home</a></li>
 - 🥘 I built social media application that allow user to share homemade meals app here <a href="https://foodjunkies.onrender.com/">Home</a></li>
 
 
