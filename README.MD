@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I am currently learning React Native to build awesome app for IOS and Android
+- 🔭 I am currently learning Angular
 - 🌱 I’m also currently learning Data Structure and building strong problem solving skills
 - 👯 I’m looking to collaborate on new challenging projects
 - 🥅 2023 Goals: Learn more about new technologies
