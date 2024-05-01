@@ -3,7 +3,7 @@
 
 ## I'm a Software Engineer
 
-- 🔭 I am currently learning Angular
+- 🔭 I am currently learning Node.js
 - 🌱 I’m also currently learning Data Structure and building strong problem solving skills
 - 👯 I’m looking to collaborate on new challenging projects
 - 🥅 2023 Goals: Learn more about new technologies
